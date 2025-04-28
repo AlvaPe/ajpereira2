@@ -1,0 +1,21 @@
+---
+title: "Alvaro J. Pereira Filho"
+image: "alvaro.jpg"
+links:
+  - label: '<i class="fab fa-google"></i> Google Scholar'
+    url: 'https://scholar.google.com/citations?user=GNRbR0QAAAAJ&hl=pt-BR&oi=ao target = "_blank"'
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/Alvarojpereiraf target = "_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/AlvaPe target = "_blank"'
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: 'mailto:aperei65@uwo.ca target = "_blank"'
+output:
+  postcards::trestles
+site: distill::distill_website  
+---
+ 
+# Welcome!
+
+I am a researcher specializing in Canadian, political behaviour, and comparative politics at Western University, Canada. My research primarily centers on public opinion, partisanship and electoral behaviour, and I actively collaborate with scholars from various disciplines, including political psychology and sociology. My publications include observational methods (e.g., using cross-sectional and panel data) and survey experiments.  
+My work has been featured in *International Journal of Public Opinion Research* and *Electoral Studies*. 
